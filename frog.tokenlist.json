@@ -1,0 +1,50 @@
+{
+  "name": "Frog Tokens",
+  "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/images/main/frog.png",
+  "keywords": [
+    "degen",
+    "defi",
+    "ethereum",
+    "bridge"
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 666666666,
+      "address": "0x7D4F462895AD2A6856cb6e94055B841C3cA55987",
+      "decimals": 18,
+      "name": "FrogSwap",
+      "symbol": "FROG",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/images/main/frog.png"
+    },
+    {
+      "chainId": 666666666,
+      "address": "0xEb54dACB4C2ccb64F8074eceEa33b5eBb38E5387",
+      "decimals": 18,
+      "name": "Wrapped DEGEN",
+      "symbol": "DEGEN",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/images/main/DEGEN.png"
+    },
+    {
+      "chainId": 666666666,
+      "address": "0xc0F388ab3A44b888Ee6a9b7727AF626255304278",
+      "decimals": 18,
+      "name": "Frogwifhat",
+      "symbol": "FWIF",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/images/main/fwif.png"
+    },
+    {
+      "chainId": 666666666,
+      "address": "0x373e256C754Bf82f09071141b92bEafb83c38c68",
+      "decimals": 18,
+      "name": "Just an average degen",
+      "symbol": "JAAD",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/images/main/jaad.png"
+    }
+  ],
+  "timestamp": "2022-02-05T12:00:00+00:00"
+}
