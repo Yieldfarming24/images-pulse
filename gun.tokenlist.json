@@ -15,14 +15,6 @@
   "tokens": [
     {
       "chainId": 369,
-      "address": "0x7D4F462895AD2A6856cb6e94055B841C3cA55987",
-      "decimals": 18,
-      "name": "PulseGun",
-      "symbol": "GUN",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/images-pulse/main/gun.png"
-    },
-    {
-      "chainId": 369,
       "address": "0xA1077a294dDE1B09bB078844df40758a5D0f9a27",
       "decimals": 18,
       "name": "Wrapped PLS",
