@@ -19,7 +19,7 @@
       "decimals": 18,
       "name": "Wrapped PLS",
       "symbol": "PLS",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/images-pulse/main/PLS.png"
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesPulse/main/PLS.png"
     },
     {
       "chainId": 369,
@@ -27,7 +27,7 @@
       "decimals": 18,
       "name": "DAI from Ethereum",
       "symbol": "DAI",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/images-pulse/main/dai.png"
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesPulse/main/dai.png"
     },
       {
       "chainId": 369,
@@ -35,7 +35,7 @@
       "decimals": 18,
       "name": "USDC from Ethereum",
       "symbol": "USDC",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/images-pulse/main/usdc.png"
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesPulse/main/usdc.png"
     },
     {
       "chainId": 369,
@@ -43,7 +43,7 @@
       "decimals": 18,
       "name": "WETH from Ethereum",
       "symbol": "WETH",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/images-pulse/main/weth.png"
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesPulse/main/weth.png"
     },
      {
       "chainId": 369,
@@ -51,7 +51,7 @@
       "decimals": 18,
       "name": "HEX from Ethereum",
       "symbol": "HEX",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/images-pulse/main/hex.png"
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesPulse/main/hex.png"
     },
     
   ],
