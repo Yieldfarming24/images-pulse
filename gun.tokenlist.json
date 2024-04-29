@@ -23,6 +23,14 @@
     },
     {
       "chainId": 369,
+      "address": "0xa39e7837B0c283e7ce07cfA7ca3DeEe58fbcbCd8",
+      "decimals": 18,
+      "name": "Gun token",
+      "symbol": "GUN",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesPulse/main/gun.png"
+    },
+    {
+      "chainId": 369,
       "address": "0xefD766cCb38EaF1dfd701853BFCe31359239F305",
       "decimals": 18,
       "name": "DAI from Ethereum",
